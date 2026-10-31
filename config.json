@@ -1,0 +1,22 @@
+{
+    "risk_thresholds": {
+        "ship": 0.10,
+        "confirmation": 0.25,
+        "prepaid": 0.45
+    },
+    "prepaid": {
+        "discount": 20,
+        "conversion_rate": 0.25,
+        "rto_rate": 0.04
+    },
+    "whatsapp": {
+        "confirmation_rate": 0.70,
+        "response_timeout_hours": 24,
+        "max_reminders": 1
+    },
+    "business": {
+        "rto_cost": 169.40,
+        "delivered_gross_profit": 402.38,
+        "customer_acquisition_cost": 300
+    }
+}
